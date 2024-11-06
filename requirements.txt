@@ -1,0 +1,11 @@
+streamlit
+pandas
+tiktoken
+graphrag
+requests
+botocore
+boto3
+fastapi==0.111.1
+pydantic==2.7.0
+azure-storage-blob
+langdetect

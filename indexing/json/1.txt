@@ -1,0 +1,2404 @@
+[
+    {
+        "ingestion_time":"2024-10-20T12:09:57Z",
+        "id":"ab2c4c6243af3d3891de3ad6c5b24f17",
+        "title":"Judge Investigates Alleged Corruption Plot in Mask Sales involving Raminatrans President",
+        "summary":"The 'Koldo case' involves an alleged plot to obtain awards for the sale of masks during the pandemic, with eight contracts under scrutiny worth a total of 51,998,434 euros. The judge is investigating Koldo Garc\u00eda, an advisor to former Minister Jos\u00e9 Luis \u00c1balos, and other individuals for alleged crimes including criminal organization, money laundering, bribery, crimes against the Public Treasury, and influence peddling.",
+        "discovery_time":"2024-10-20T11:46:34.480000Z",
+        "affected_companies":[
+            {
+                "company_id":"428548293",
+                "name":"Raminatrans Patrimonial Sociedad Limitada"
+            }
+        ],
+        "highlights":[
+            "Judge Ismael Moreno to testify from Jorge Meana and Julio Gonz\u00e1lez Garcia, requested by Rafael Milla of Raminatrans.",
+            "Investigation of Koldo Garc\u00eda, advisor to former Minister Jos\u00e9 Luis \u00c1balos, for an alleged plot to obtain awards for mask sales.",
+            "Alleged crimes against Koldo Garc\u00eda include criminal organization, money laundering, bribery, Public Treasury crimes, and influence peddling.",
+            "Testimonies requested by the popular accusation Liberum in the 'Koldo case' being investigated by the National Court."
+        ],
+        "tags":[
+            "Koldo case",
+            "Ismael Moreno",
+            "testimony",
+            "Jorge Meana",
+            "Julio Gonz\u00e1lez Garcia",
+            "Rafael Milla",
+            "Liberum",
+            "corruption",
+            "Koldo Garc\u00eda",
+            "Jos\u00e9 Luis \u00c1balos",
+            "criminal organization",
+            "money laundering",
+            "bribery",
+            "Public Treasury",
+            "influence peddling"
+        ],
+        "ai_severity_impact_scale":{
+            "score":85,
+            "description":[
+                "Reputational Impact is High",
+                "Financial Impact is High",
+                "Incident Scale is High",
+                "Incident Impact Duration is High",
+                "Company Responsibility is High",
+                "Legal Consequences is High",
+                "Health And Safety is Low"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/www.infobae.com\/resizer\/v2\/7UIR552B7FB5XKNL2246ZKKPVU.jpg?auth=a797fbbd6e9e6e0206c48982a740b662a9f8f6863f3e0b99270b8be53637aade&smart=true&width=1200&height=630&quality=85",
+        "news_articles":[
+            {
+                "sentiment":{
+                    "score":0.5899216,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/www.infobae.com\/resizer\/v2\/7UIR552B7FB5XKNL2246ZKKPVU.jpg?auth=a797fbbd6e9e6e0206c48982a740b662a9f8f6863f3e0b99270b8be53637aade&smart=true&width=1200&height=630&quality=85",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-20T11:46:34.480000Z",
+                "source":{
+                    "rank":148,
+                    "location":{
+                        "lng":-64.0,
+                        "country_geoname_id":3865483,
+                        "name":"Argentina",
+                        "country_name":"Argentina",
+                        "wikidata_id":"Q414",
+                        "continent_code":"SA",
+                        "id":"9b2f534768d2316d87d51638d7d7db88",
+                        "location_type_name":"country, state, region,...",
+                        "lat":-34.0,
+                        "location_type":"PCLI",
+                        "geoname_id":3865483
+                    },
+                    "title":"infobae",
+                    "url":"infobae.com"
+                },
+                "title":"El juez del 'caso Koldo' interroga este lunes a un cargo de Transportes y al ex secretario general de Correos",
+                "body":"The judge of the National Court investigating the 'Koldo case', Ismael Moreno, will take a statement this Monday as witnesses from the ...",
+                "uri":"f299b23fdc4a4a869ac4c3388890758c",
+                "url":"https:\/\/www.infobae.com\/espana\/agencias\/2024\/10\/20\/el-juez-del-caso-koldo-interroga-este-lunes-a-un-cargo-de-transportes-y-al-ex-secretario-general-de-correos\/"
+            },
+            {
+                "sentiment":{
+                    "score":0.46320033,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/www.diariosigloxxi.com\/images\/20537",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T10:08:09Z",
+                "source":{
+                    "rank":321881,
+                    "location":{
+                        "lng":-4.0,
+                        "country_geoname_id":2510769,
+                        "name":"Spain",
+                        "country_name":"Spain",
+                        "wikidata_id":"Q29",
+                        "continent_code":"EU",
+                        "id":"44b2ae2b093733c19a1183d343276233",
+                        "location_type_name":"country, state, region,...",
+                        "lat":40.0,
+                        "location_type":"PCLI",
+                        "geoname_id":2510769
+                    },
+                    "title":"Diario Siglo XXI",
+                    "url":"diariosigloxxi.com"
+                },
+                "title":"Un cargo de Transportes confirma al juez del 'caso Koldo' que no hubo actas de recepci\u00f3n de todas las mascarillas",
+                "body":"The one who was head of Budgets of the Ministry of Transport and Sustainable Mobility in 2020, Jorge Meana, indicated this Monday in his ...",
+                "uri":"326f9df54465456aaf1def6685ca5d09",
+                "url":"https:\/\/www.diariosigloxxi.com\/texto-ep\/mostrar\/20241021120809\/cargo-transportes-confirma-juez-caso-koldo-no-hubo-actas-recepcion-todas-mascarillas"
+            },
+            {
+                "sentiment":{
+                    "score":0.46858558,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/estaticos-cdn.prensaiberica.es\/clip\/a8b5305f-2fc8-4de7-ae2a-6c1c69a5dee2_16-9-discover-aspect-ratio_default_0.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T11:59:46Z",
+                "source":{
+                    "rank":7540,
+                    "location":{
+                        "lng":-4.0,
+                        "country_geoname_id":2510769,
+                        "name":"Spain",
+                        "country_name":"Spain",
+                        "wikidata_id":"Q29",
+                        "continent_code":"EU",
+                        "id":"44b2ae2b093733c19a1183d343276233",
+                        "location_type_name":"country, state, region,...",
+                        "lat":40.0,
+                        "location_type":"PCLI",
+                        "geoname_id":2510769
+                    },
+                    "title":"faro de vigo | noticias y \u00faltima hora de vigo",
+                    "url":"farodevigo.es"
+                },
+                "title":"Un cargo de Transportes confirma al juez del 'caso Koldo' que no hubo actas de recepci\u00f3n de todas las mascarillas",
+                "body":"The one who was head of Budgets and Contracting of the Ministry of Transport and Sustainable Mobility in 2020, Jorge Meana, indicated this ...",
+                "uri":"bc2df8692b3f4cb0916d8bcc5615d9d5",
+                "url":"https:\/\/www.farodevigo.es\/espana\/2024\/10\/21\/cargo-transportes-confirma-juez-caso-koldo-faltan-actas-mascarillas-109957176.html"
+            },
+            {
+                "sentiment":{
+                    "score":0.46858558,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/estaticos-cdn.prensaiberica.es\/clip\/a8b5305f-2fc8-4de7-ae2a-6c1c69a5dee2_16-9-discover-aspect-ratio_default_0.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T11:59:44Z",
+                "source":{
+                    "rank":19986,
+                    "location":{
+                        "lng":-4.0,
+                        "country_geoname_id":2510769,
+                        "name":"Spain",
+                        "country_name":"Spain",
+                        "wikidata_id":"Q29",
+                        "continent_code":"EU",
+                        "id":"44b2ae2b093733c19a1183d343276233",
+                        "location_type_name":"country, state, region,...",
+                        "lat":40.0,
+                        "location_type":"PCLI",
+                        "geoname_id":2510769
+                    },
+                    "title":"Diario C\u00f3rdoba",
+                    "url":"diariocordoba.com"
+                },
+                "title":"Un cargo de Transportes confirma al juez del 'caso Koldo' que no hubo actas de recepci\u00f3n de todas las mascarillas",
+                "body":"The one who was head of Budgets and Contracting of the Ministry of Transport and Sustainable Mobility in 2020, Jorge Meana, indicated this ...",
+                "uri":"37a19b50d0a44021b5a2ed807b2cedba",
+                "url":"https:\/\/www.diariocordoba.com\/espana\/2024\/10\/21\/cargo-transportes-confirma-juez-caso-koldo-faltan-actas-mascarillas-109957166.html"
+            },
+            {
+                "sentiment":{
+                    "score":0.47807553,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/estaticos-cdn.prensaiberica.es\/clip\/a8b5305f-2fc8-4de7-ae2a-6c1c69a5dee2_16-9-discover-aspect-ratio_default_0.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T11:59:45Z",
+                "source":{
+                    "rank":12274,
+                    "location":{
+                        "lng":-4.0,
+                        "country_geoname_id":2510769,
+                        "name":"Spain",
+                        "country_name":"Spain",
+                        "wikidata_id":"Q29",
+                        "continent_code":"EU",
+                        "id":"44b2ae2b093733c19a1183d343276233",
+                        "location_type_name":"country, state, region,...",
+                        "lat":40.0,
+                        "location_type":"PCLI",
+                        "geoname_id":2510769
+                    },
+                    "title":"diario de mallorca, \u00faltimas noticias de mallorca, espa\u00f1a y el mundo",
+                    "url":"diariodemallorca.es"
+                },
+                "title":"Un cargo de Transportes confirma al juez del 'caso Koldo' que no hubo actas de recepci\u00f3n de todas las mascarillas",
+                "body":"The one who was head of Budgets and Contracting of the Ministry of Transport and Sustainable Mobility in 2020, Jorge Meana, indicated this ...",
+                "uri":"7fe20b04577d4598811adc8656a356b5",
+                "url":"https:\/\/www.diariodemallorca.es\/nacional\/2024\/10\/21\/cargo-transportes-confirma-juez-caso-koldo-faltan-actas-mascarillas-109957142.html"
+            },
+            {
+                "sentiment":{
+                    "score":0.47807553,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/estaticos-cdn.prensaiberica.es\/clip\/a8b5305f-2fc8-4de7-ae2a-6c1c69a5dee2_16-9-discover-aspect-ratio_default_0.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T11:59:46Z",
+                "source":{
+                    "rank":18049,
+                    "location":{
+                        "lng":-4.0,
+                        "country_geoname_id":2510769,
+                        "name":"Spain",
+                        "country_name":"Spain",
+                        "wikidata_id":"Q29",
+                        "continent_code":"EU",
+                        "id":"44b2ae2b093733c19a1183d343276233",
+                        "location_type_name":"country, state, region,...",
+                        "lat":40.0,
+                        "location_type":"PCLI",
+                        "geoname_id":2510769
+                    },
+                    "title":"eld\u00eda.es tenerife - noticias de tenerife, canarias, espa\u00f1a y el mundo en eld\u00eda.es tenerife",
+                    "url":"eldia.es"
+                },
+                "title":"Un cargo de Transportes confirma al juez del 'caso Koldo' que no hubo actas de recepci\u00f3n de todas las mascarillas",
+                "body":"The one who was head of Budgets and Contracting of the Ministry of Transport and Sustainable Mobility in 2020, Jorge Meana, indicated this ...",
+                "uri":"4a9ff2592dfc42e692ffec6d29b58829",
+                "url":"https:\/\/www.eldia.es\/nacional\/2024\/10\/21\/cargo-transportes-confirma-juez-caso-koldo-faltan-actas-mascarillas-109957175.html"
+            },
+            {
+                "sentiment":{
+                    "score":0.46858558,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/estaticos-cdn.prensaiberica.es\/clip\/a8b5305f-2fc8-4de7-ae2a-6c1c69a5dee2_16-9-discover-aspect-ratio_default_0.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T11:59:44Z",
+                "source":{
+                    "rank":57336,
+                    "location":{
+                        "lng":-4.0,
+                        "country_geoname_id":2510769,
+                        "name":"Spain",
+                        "country_name":"Spain",
+                        "wikidata_id":"Q29",
+                        "continent_code":"EU",
+                        "id":"44b2ae2b093733c19a1183d343276233",
+                        "location_type_name":"country, state, region,...",
+                        "lat":40.0,
+                        "location_type":"PCLI",
+                        "geoname_id":2510769
+                    },
+                    "title":"la opini\u00f3n a coru\u00f1a, noticias de a coru\u00f1a, galicia, espa\u00f1a y el mundo",
+                    "url":"laopinioncoruna.es"
+                },
+                "title":"Un cargo de Transportes confirma al juez del 'caso Koldo' que no hubo actas de recepci\u00f3n de todas las mascarillas",
+                "body":"The one who was head of Budgets and Contracting of the Ministry of Transport and Sustainable Mobility in 2020, Jorge Meana, indicated this ...",
+                "uri":"231422ec2d5d49de9087887cdbb920ee",
+                "url":"https:\/\/www.laopinioncoruna.es\/espana\/2024\/10\/21\/cargo-transportes-confirma-juez-caso-koldo-faltan-actas-mascarillas-109957136.html"
+            },
+            {
+                "sentiment":{
+                    "score":0.46858558,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/estaticos-cdn.prensaiberica.es\/clip\/a8b5305f-2fc8-4de7-ae2a-6c1c69a5dee2_16-9-discover-aspect-ratio_default_0.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T11:59:42Z",
+                "source":{
+                    "rank":11525,
+                    "location":{
+                        "lng":-4.0,
+                        "country_geoname_id":2510769,
+                        "name":"Spain",
+                        "country_name":"Spain",
+                        "wikidata_id":"Q29",
+                        "continent_code":"EU",
+                        "id":"44b2ae2b093733c19a1183d343276233",
+                        "location_type_name":"country, state, region,...",
+                        "lat":40.0,
+                        "location_type":"PCLI",
+                        "geoname_id":2510769
+                    },
+                    "title":"la opini\u00f3n de murcia, \u00faltimas noticias de murcia y espa\u00f1a.",
+                    "url":"laopiniondemurcia.es"
+                },
+                "title":"Un cargo de Transportes confirma al juez del 'caso Koldo' que no hubo actas de recepci\u00f3n de todas las mascarillas",
+                "body":"The one who was head of Budgets and Contracting of the Ministry of Transport and Sustainable Mobility in 2020, Jorge Meana, indicated this ...",
+                "uri":"5b814996c0e7402ba19d638aac839b9f",
+                "url":"https:\/\/www.laopiniondemurcia.es\/nacional\/2024\/10\/21\/cargo-transportes-confirma-juez-caso-koldo-faltan-actas-mascarillas-109957125.html"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+            {
+                "lng":-4.0,
+                "country_geoname_id":2510769,
+                "name":"Spain",
+                "country_name":"Spain",
+                "wikidata_id":"Q29",
+                "continent_code":"EU",
+                "id":"44b2ae2b093733c19a1183d343276233",
+                "location_type_name":"country, state, region,...",
+                "lat":40.0,
+                "location_type":"PCLI",
+                "geoname_id":2510769
+            }
+        ],
+        "lc_risk_factors":[
+            88,
+            113,
+            94
+        ],
+        "legal_and_regulatory_actions":[
+
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.086798385,
+        "updated_time":"2024-10-21T12:25:20Z"
+    },
+    {
+        "ingestion_time":"2024-10-20T12:16:12Z",
+        "id":"5481c1892e3f307980ef6f46cd5305fb",
+        "title":"Class Action Suit Against South African Police Service for Gun Thefts",
+        "summary":"A decade after a 71-year-old mother, Shamiela Eksteen, was shot dead in her home in Manenberg, Cape Town, her family and friends held a remembrance prayer service. The incident occurred on October 13, 2014, when gunmen came to the house looking for Eksteen's son, Luftie, who was a member of the Anti-Gang Unit at the time. Luftie's brother, Mansoer, was shot five times but survived. The shooting was allegedly linked to the smuggling of firearms from the South African Police Service (SAPS) to gangsters on the Cape Flats.",
+        "discovery_time":"2024-10-20T11:52:28Z",
+        "affected_companies":[
+            {
+                "company_id":"1885295040",
+                "name":"Police Service"
+            }
+        ],
+        "highlights":[
+            "A class action lawsuit is being led against South African Police Service (SAPS) by Gun Free South Africa (GFSA) due to theft of about 2,400 firearms and unknown amount of ammunition since 2007\/8.",
+            "The lawsuit is sparked by the murder of 71-year-old Manenberg mother Shamiela Eksteen, who was part of the Anti-Gang Unit (AGU) investigating firearms in Western Cape gangs hands.",
+            "No arrests have been made in connection with Eksteen's shooting, and the class action application is on behalf of Western Cape families of those wounded and murdered by cop-smuggled firearms."
+        ],
+        "tags":[
+            "class action lawsuit",
+            "SAPS",
+            "firearms theft",
+            "Western Cape gangs",
+            "unresolved murder",
+            "cop-smuggled firearms"
+        ],
+        "ai_severity_impact_scale":{
+            "score":85,
+            "description":[
+                "Reputational Impact is High",
+                "Financial Impact is Medium",
+                "Incident Scale is High",
+                "Incident Impact Duration is High",
+                "Company Responsibility is High",
+                "Legal Consequences is Medium",
+                "Health And Safety is High"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/i0.wp.com\/www.dailymaverick.co.za\/wp-content\/uploads\/2024\/10\/09-Caryn-Gangs-to-guns-case-MAIN.jpg?fit=1280%2C640&quality=89&ssl=1",
+        "news_articles":[
+            {
+                "uri":"32d891dd4eb140f9811d15a75c40485e",
+                "title":"Police-smuggled firearms: Class action takes aim at SAPS",
+                "body":"In this file photo, police confiscate and destroy illegal firearms and ammunition. However, a previous investigation revealed that scores ...",
+                "url":"https:\/\/www.dailymaverick.co.za\/article\/2024-10-20-police-smuggled-firearms-class-action-takes-aim-at-saps\/",
+                "publication_datetime":"2024-10-20T11:52:28Z",
+                "source":{
+                    "url":"dailymaverick.co.za",
+                    "title":"Daily Maverick",
+                    "location":{
+                        "id":"ef7702449ca536598213283af4d51d47",
+                        "name":"South Africa",
+                        "wikidata_id":"Q258",
+                        "lat":-29.0,
+                        "lng":24.0,
+                        "location_type":"PCLI",
+                        "location_type_name":"country, state, region,...",
+                        "geoname_id":953987,
+                        "country_name":"South Africa",
+                        "country_geoname_id":953987,
+                        "continent_code":"AF"
+                    },
+                    "rank":12720
+                },
+                "article_type":"NEWS",
+                "sentiment":{
+                    "score":0.7224071,
+                    "category":"NEGATIVE",
+                    "company":null
+                },
+                "image":"https:\/\/i0.wp.com\/www.dailymaverick.co.za\/wp-content\/uploads\/2024\/10\/09-Caryn-Gangs-to-guns-case-MAIN.jpg?fit=1280%2C640&quality=89&ssl=1"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+            {
+                "id":"868ce6df7b123d3881de0b143d7dc858",
+                "name":"Manenberg",
+                "wikidata_id":"Q6588027",
+                "lat":-33.98972,
+                "lng":18.55627,
+                "location_type":"PPLX",
+                "location_type_name":"city, village,...",
+                "geoname_id":3364333,
+                "country_name":"South Africa",
+                "country_geoname_id":953987,
+                "continent_code":"AF"
+            }
+        ],
+        "lc_risk_factors":[
+            180,
+            96
+        ],
+        "legal_and_regulatory_actions":[
+            {
+                "company":{
+                    "company_id":"1885295040",
+                    "name":"Police Service"
+                },
+                "description":"Families of those wounded and murdered by cop-smuggled firearms has filed a lawsuit against Police Service"
+            }
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.923014452,
+        "updated_time":null
+    },
+    {
+        "ingestion_time":"2024-10-20T12:31:19Z",
+        "id":"e6f66bee33d73433b554e8349b28d04e",
+        "title":"Government Reinstates HS2 Ministerial Oversight Over \u00a330bn Cost Overrun to \u00a360bn",
+        "summary":"The UK government has launched a review of the HS2 high-speed rail project due to concerns over its ballooning costs, with estimates suggesting the project could be \u00a310-20 billion over budget. The review aims to ensure greater accountability and will see regular meetings between ministers and HS2 officials to challenge delivery and remove obstacles. The government is also reviewing incentives for main contractors, which could lead to renegotiated or amended contracts.",
+        "discovery_time":"2024-10-20T12:22:55Z",
+        "affected_companies":[
+            {
+                "company_id":"137646034",
+                "name":"High Speed Two (HS2) Limited"
+            },
+            {
+                "company_id":"307437059",
+                "name":"Balfour Beatty VINCI"
+            }
+        ],
+        "highlights":[
+            "Ministers to oversee HS2 due to government's inability to accurately assess cost overruns, described as 'dire' by Louise Haigh.",
+            "Government reinstating ministerial oversight for greater accountability and cost-effectiveness.",
+            "British-French joint venture Balfour Beatty Vinci is the largest private sector supplier, with potential contract renegotiations or amendments.",
+            "Independent review led by James Stewart to present recommendations to the government this winter regarding the project's cost increase from \u00a330bn to almost \u00a360bn using 2019 prices."
+        ],
+        "tags":[
+            "HS2",
+            "high-speed rail line",
+            "cost overrun",
+            "ministerial oversight",
+            "Balfour Beatty Vinci",
+            "review",
+            "projected cost increase"
+        ],
+        "ai_severity_impact_scale":{
+            "score":57,
+            "description":[
+                "Reputational Impact is Medium",
+                "Financial Impact is High",
+                "Incident Scale is High",
+                "Incident Impact Duration is Medium",
+                "Company Responsibility is High",
+                "Legal Consequences is Low",
+                "Health And Safety is Low"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/i.guim.co.uk\/img\/media\/e78134a866b9c71880c2f9d7d5c273f43bf74f38\/0_7_6000_3600\/master\/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=743dd86731018c26567edc7244eb9b7f",
+        "news_articles":[
+            {
+                "sentiment":{
+                    "score":0.7408867,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/i.guim.co.uk\/img\/media\/e78134a866b9c71880c2f9d7d5c273f43bf74f38\/0_7_6000_3600\/master\/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=743dd86731018c26567edc7244eb9b7f",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-20T12:22:55Z",
+                "source":{
+                    "rank":136,
+                    "location":{
+                        "lng":-2.69531,
+                        "country_geoname_id":2635167,
+                        "name":"United Kingdom",
+                        "country_name":"United Kingdom",
+                        "wikidata_id":"Q145",
+                        "continent_code":"EU",
+                        "id":"1da599c76e1c32aab3af3ecf68538aea",
+                        "location_type_name":"country, state, region,...",
+                        "lat":54.75844,
+                        "location_type":"PCLI",
+                        "geoname_id":2635167
+                    },
+                    "title":"The Guardian",
+                    "url":"theguardian.com"
+                },
+                "title":"Ministers to oversee \u2018dire\u2019 HS2 as true cost remains uncertain",
+                "body":"Ministers are to oversee HS2 and have launched a review after the government was unable to ascertain the scale of the ballooning overspend ...",
+                "uri":"e929cb8f04d34b42918659d6dd0c5272",
+                "url":"https:\/\/www.theguardian.com\/uk-news\/2024\/oct\/20\/ministers-to-oversee-dire-hs2-as-true-cost-remains-uncertain"
+            },
+            {
+                "sentiment":{
+                    "score":0.735627,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/media.zenfs.com\/en\/theguardian_763\/afd5ea60307df6f5b166e2b885c7942c",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-20T12:22:55Z",
+                "source":{
+                    "rank":11,
+                    "location":{
+                        "lng":-113.64258,
+                        "country_geoname_id":6251999,
+                        "name":"Canada",
+                        "country_name":"Canada",
+                        "wikidata_id":"Q16",
+                        "continent_code":"NA",
+                        "id":"5238071ef96e3f07b5821c0df8e2ed98",
+                        "location_type_name":"country, state, region,...",
+                        "lat":60.10867,
+                        "location_type":"PCLI",
+                        "geoname_id":6251999
+                    },
+                    "title":"Yahoo! News",
+                    "url":"ca.news.yahoo.com"
+                },
+                "title":"Ministers to oversee \u2018dire\u2019 HS2 as true cost remains uncertain",
+                "body":"Ministers are to oversee HS2 and have launched a review after the government was unable to ascertain the scale of the ballooning overspend ...",
+                "uri":"b6f4838574d944c088fb97f5633fe64e",
+                "url":"https:\/\/ca.news.yahoo.com\/ministers-oversee-dire-hs2-true-122255726.html"
+            },
+            {
+                "sentiment":{
+                    "score":0.63687223,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/www.cityam.com\/wp-content\/uploads\/2024\/10\/01JA7Z9F49T887PFNP1EF9ZBM7.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-20T12:32:06Z",
+                "source":{
+                    "rank":72009,
+                    "location":{
+                        "lng":-2.69531,
+                        "country_geoname_id":2635167,
+                        "name":"United Kingdom",
+                        "country_name":"United Kingdom",
+                        "wikidata_id":"Q145",
+                        "continent_code":"EU",
+                        "id":"1da599c76e1c32aab3af3ecf68538aea",
+                        "location_type_name":"country, state, region,...",
+                        "lat":54.75844,
+                        "location_type":"PCLI",
+                        "geoname_id":2635167
+                    },
+                    "title":"City A.M.",
+                    "url":"cityam.com"
+                },
+                "title":"Ministers to oversee HS2 amid warnings of \u2018dire delivery failure\u2019",
+                "body":"Ministers will oversee work on HS2, the government has announced, as the transport secretary warned costs had spiralled out of control. ...",
+                "uri":"32802b3a2ed349f1b2b241fd2b57800b",
+                "url":"https:\/\/www.cityam.com\/ministers-to-oversee-hs2-amid-warnings-of-dire-delivery-failure\/"
+            },
+            {
+                "sentiment":{
+                    "score":0.73956573,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/www.constructionenquirer.com\/wp-content\/uploads\/HS2-190x108-600x414.jpeg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-20T20:46:20Z",
+                "source":{
+                    "rank":118035,
+                    "location":{
+                        "lng":-2.69531,
+                        "country_geoname_id":2635167,
+                        "name":"United Kingdom",
+                        "country_name":"United Kingdom",
+                        "wikidata_id":"Q145",
+                        "continent_code":"EU",
+                        "id":"1da599c76e1c32aab3af3ecf68538aea",
+                        "location_type_name":"country, state, region,...",
+                        "lat":54.75844,
+                        "location_type":"PCLI",
+                        "geoname_id":2635167
+                    },
+                    "title":"Construction Enquirer",
+                    "url":"constructionenquirer.com"
+                },
+                "title":"HS2 contracts face rewrite as costs spiral out of control",
+                "body":"The Government is threatening to rewrite construction contracts on HS2 as ministers step-in to oversee the project amid spiralling costs. ...",
+                "uri":"5f7d1864f3744a9eab393bc1dbc65fa8",
+                "url":"https:\/\/www.constructionenquirer.com\/2024\/10\/20\/hs2-contracts-face-rewrite-as-costs-spiral-out-of-control\/"
+            },
+            {
+                "sentiment":{
+                    "score":0.61819226,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/emap-romulus-prod.s3.eu-west-1.amazonaws.com\/wp-content\/uploads\/sites\/9\/2024\/10\/hs2-piling-birmingham-curzon-street-station-560x315.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T10:00:42Z",
+                "source":{
+                    "rank":181347,
+                    "location":{
+                        "lng":-2.69531,
+                        "country_geoname_id":2635167,
+                        "name":"United Kingdom",
+                        "country_name":"United Kingdom",
+                        "wikidata_id":"Q145",
+                        "continent_code":"EU",
+                        "id":"1da599c76e1c32aab3af3ecf68538aea",
+                        "location_type_name":"country, state, region,...",
+                        "lat":54.75844,
+                        "location_type":"PCLI",
+                        "geoname_id":2635167
+                    },
+                    "title":"New Civil Engineer",
+                    "url":"newcivilengineer.com"
+                },
+                "title":"DfT to \u2018get a grip\u2019 on HS2 with urgent measures after \u2018years of failed delivery\u2019",
+                "body":"The Department for Transport (DfT) has launched an independent review of High Speed 2 (HS2) among other urgent measures to \u201cget a grip\u201d on ...",
+                "uri":"bd94552bd804446fabf96b61d6c9409f",
+                "url":"https:\/\/www.newcivilengineer.com\/latest\/dft-to-get-a-grip-on-hs2-with-urgent-measures-after-years-of-failed-delivery-21-10-2024\/"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+            {
+                "lng":-2.69531,
+                "country_geoname_id":2635167,
+                "name":"United Kingdom",
+                "country_name":"United Kingdom",
+                "wikidata_id":"Q145",
+                "continent_code":"EU",
+                "id":"1da599c76e1c32aab3af3ecf68538aea",
+                "location_type_name":"country, state, region,...",
+                "lat":54.75844,
+                "location_type":"PCLI",
+                "geoname_id":2635167
+            }
+        ],
+        "lc_risk_factors":[
+
+        ],
+        "legal_and_regulatory_actions":[
+
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.087586728,
+        "updated_time":"2024-10-21T10:20:59Z"
+    },
+    {
+        "ingestion_time":"2024-10-20T12:34:23Z",
+        "id":"a0993042aca6308facc2f65e2ea3fee1",
+        "title":"Compulsory Land Acquisition Dispute Threatens MSC Cruises' Port Coral Project in Belize",
+        "summary":"A dispute has arisen over the ownership of the 23.4-acre extension of Stake Bank Island, which is currently in the name of Belizean businessman Michael Feinstein. The Government of Belize is considering compulsorily acquiring the land to facilitate the sale of the Port Coral cruise port project to MSC Cruises, a Swiss-based company. However, Feinstein and his supporters, including the Federation of Cruise Tourism Association (FECTAB), are objecting to the compulsory acquisition, citing concerns over the impact on local tour operators and the potential loss of benefits for the Belizean people.",
+        "discovery_time":"2024-10-20T12:12:00Z",
+        "affected_companies":[
+            {
+                "company_id":"212709147",
+                "name":"Atlantic Bank Limited"
+            },
+            {
+                "company_id":"46955239",
+                "name":"MSC Cruises SA"
+            }
+        ],
+        "highlights":[
+            "Belize's Prime Minister, John Brice\u00f1o, announced MSC Cruises' interest in the Port Coral cruise port project,\",\" however, a dispute between Atlantic Bank and developer Michael Feinstein persists,\",\" potentially requiring compulsory land acquisition,\",\" causing concern for FECTAB members who fear negative impacts on their access to Stake Bank,\",\" as expressed in a joint press conference with the National Trade Union Congress of Belize (NTUCB) supporting the Feinsteins."
+        ],
+        "tags":[
+            "Belize",
+            "Prime Minister Brice\u00f1o",
+            "MSC Cruises",
+            "Port Coral cruise port project",
+            "Atlantic Bank",
+            "Michael Feinstein",
+            "compulsory acquisition",
+            "FECTAB members",
+            "Stake Bank",
+            "National Trade Union Congress of Belize"
+        ],
+        "ai_severity_impact_scale":{
+            "score":35,
+            "description":[
+                "Reputational Impact is Medium",
+                "Financial Impact is Low",
+                "Incident Scale is Medium",
+                "Incident Impact Duration is Medium",
+                "Company Responsibility is Medium",
+                "Legal Consequences is Medium",
+                "Health And Safety is Low"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":null,
+        "news_articles":[
+            {
+                "uri":"52b3d4ab3ef9429f9f7fad554e688595",
+                "title":"FECTAB joins Feinstein in battle for Stake Bank",
+                "body":"Appearing on a morning show on October 7, Prime Minister John Brice\u00f1o stated that the world\u2019s largest privately owned cruise company, MSC ...",
+                "url":"https:\/\/amandala.com.bz\/news\/fectab-joins-feinstein-in-battle-for-stake-bank\/",
+                "publication_datetime":"2024-10-20T12:12:00Z",
+                "source":{
+                    "url":"amandala.com.bz",
+                    "title":"Amandala",
+                    "location":{
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "name":"United States of America",
+                        "wikidata_id":"Q30",
+                        "lat":39.76,
+                        "lng":-98.5,
+                        "location_type":"PCLI",
+                        "location_type_name":"country, state, region,...",
+                        "geoname_id":6252001,
+                        "country_name":"United States",
+                        "country_geoname_id":6252001,
+                        "continent_code":"NA"
+                    },
+                    "rank":1664985
+                },
+                "article_type":"NEWS",
+                "sentiment":{
+                    "score":0.48682252,
+                    "category":"NEUTRAL",
+                    "company":null
+                },
+                "image":""
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+            {
+                "id":"a473c0c239ca304489d21f1e1c4509fb",
+                "name":"Belize",
+                "wikidata_id":"Q242",
+                "lat":17.0666666667,
+                "lng":-88.7,
+                "location_type":null,
+                "location_type_name":null,
+                "geoname_id":3582678,
+                "country_name":"Belize",
+                "country_geoname_id":null,
+                "continent_code":null
+            }
+        ],
+        "lc_risk_factors":[
+
+        ],
+        "legal_and_regulatory_actions":[
+
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.09345193,
+        "updated_time":null
+    },
+    {
+        "ingestion_time":"2024-10-20T12:54:52Z",
+        "id":"a641f57680ed3617a59c42f19266c60f",
+        "title":"Terveystalo's Unilateral Decision to Cut Remote Doctors' Fees Raises Patient Safety Concerns",
+        "summary":"Terveystalo has reduced remote doctors' fees with a unilateral decision, raising concerns about patient safety from the Medical Association. The company asked remote doctors to sign an agreement on the new fee structure and shift model on September 10.",
+        "discovery_time":"2024-10-20T12:38:47Z",
+        "affected_companies":[
+            {
+                "company_id":"22594919",
+                "name":"Terveystalo Healthcare Oy"
+            }
+        ],
+        "highlights":[
+            "\"Terveystalo has reduced remote doctors' fees with a unilateral decision\"",
+            "\"The Medical Association is concerned about the safety of remote doctors and their patients\"",
+            "\"An internal announcement reveals a shift model change for remote receptions and doctors\"",
+            "\"TerveyStalo has asked remote doctors to sign an agreement on the subject on September 10\""
+        ],
+        "tags":[
+            "reduced fees",
+            "remote doctors",
+            "unilateral decision",
+            "patient safety",
+            "Medical Association concern"
+        ],
+        "ai_severity_impact_scale":{
+            "score":35,
+            "description":[
+                "Reputational Impact is Medium",
+                "Financial Impact is Low",
+                "Incident Scale is Medium",
+                "Incident Impact Duration is Low",
+                "Company Responsibility is High",
+                "Legal Consequences is Low",
+                "Health And Safety is Medium"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/img.ilcdn.fi\/MM_qyrEzuxAuEoRHY6DTA4v427c=\/1024x640\/top\/img-s3.ilcdn.fi\/e697b884327db7c3836bb756d4817080e5bd5dd38f1c78a83553c9e5cd867897.jpg",
+        "news_articles":[
+            {
+                "uri":"9dbc3ea874c047e8bf90367f62ae34ed",
+                "title":"Sis\u00e4inen tiedote paljastaa \u2013 Terveystalo pudotti et\u00e4l\u00e4\u00e4k\u00e4rien palkkioita, L\u00e4\u00e4k\u00e4riliitto huolestui",
+                "body":"Terveystalo has reduced remote doctors' fees with a unilateral decision. The Medical Association is concerned about the realization of ...",
+                "url":"https:\/\/www.iltalehti.fi\/kotimaa\/a\/d116a5e8-ac0f-4dac-b167-50cc627e5550",
+                "publication_datetime":"2024-10-20T12:38:47Z",
+                "source":{
+                    "url":"iltalehti.fi",
+                    "title":"iltalehti | il - suomen suurin uutispalvelu",
+                    "location":{
+                        "id":"4e2e12478ae335fea230854b2a2be2a5",
+                        "name":"Finland",
+                        "wikidata_id":"Q33",
+                        "lat":64.0,
+                        "lng":26.0,
+                        "location_type":"PCLI",
+                        "location_type_name":"country, state, region,...",
+                        "geoname_id":660013,
+                        "country_name":"Finland",
+                        "country_geoname_id":660013,
+                        "continent_code":"EU"
+                    },
+                    "rank":863
+                },
+                "article_type":"NEWS",
+                "sentiment":{
+                    "score":0.5049516,
+                    "category":"NEUTRAL",
+                    "company":null
+                },
+                "image":"https:\/\/img.ilcdn.fi\/MM_qyrEzuxAuEoRHY6DTA4v427c=\/1024x640\/top\/img-s3.ilcdn.fi\/e697b884327db7c3836bb756d4817080e5bd5dd38f1c78a83553c9e5cd867897.jpg"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+
+        ],
+        "lc_risk_factors":[
+            58,
+            150
+        ],
+        "legal_and_regulatory_actions":[
+
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.08206174,
+        "updated_time":null
+    },
+    {
+        "ingestion_time":"2024-10-20T13:17:31Z",
+        "id":"7bd35f12c15f398faa93688fb16c309c",
+        "title":"Funding to Congress's Skill University by Adani Group Questioned Amid Pollution Fears Over Cement Factory",
+        "summary":"Doubts are being raised about the timing of Adani Group's Rs. 100 crore funding to Congress's Young India Skill University, just ahead of the public hearing for Ambuja Cement's factory in Ramannapet. The proposed cement factory has sparked an uproar among locals who fear the factory will cause pollution that could harm air quality, water sources, and agricultural lands.",
+        "discovery_time":"2024-10-20T12:59:36Z",
+        "affected_companies":[
+            {
+                "company_id":"883013",
+                "name":"Adani Enterprises Limited"
+            }
+        ],
+        "highlights":[
+            "Adani Group donated Rs.100 crore to Congress's Young India Skill University",
+            "Donation made before public hearing for Ambuja Cement's factory in Ramannapet",
+            "Locals oppose factory due to fear of pollution affecting air quality, water sources, and agricultural lands",
+            "Pollution Control Board to conduct public hearing on proposed cement factory on same day"
+        ],
+        "tags":[
+            "Adani Group",
+            "Congress's Young India Skill University",
+            "funding",
+            "Ambuja Cement's factory",
+            "public hearing",
+            "pollution",
+            "BRS working president KT Rama Rao",
+            "Rahul Gandhi",
+            "Musi River rejuvenation project"
+        ],
+        "ai_severity_impact_scale":{
+            "score":28,
+            "description":[
+                "Reputational Impact is Medium",
+                "Financial Impact is Low",
+                "Incident Scale is Medium",
+                "Incident Impact Duration is Low",
+                "Company Responsibility is Medium",
+                "Legal Consequences is Low",
+                "Health And Safety is Medium"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/media.telanganatoday.com\/wp-content\/uploads\/2024\/10\/Chief-Minister-A-Revanth-Reddy-meets-Gautam-Adani-1.jpg",
+        "news_articles":[
+            {
+                "sentiment":{
+                    "score":0.79281586,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/media.telanganatoday.com\/wp-content\/uploads\/2024\/10\/Chief-Minister-A-Revanth-Reddy-meets-Gautam-Adani-1.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-20T12:59:36Z",
+                "source":{
+                    "rank":22946,
+                    "location":{
+                        "lng":79.0,
+                        "country_geoname_id":1269750,
+                        "name":"India",
+                        "country_name":"India",
+                        "wikidata_id":"Q668",
+                        "continent_code":"AS",
+                        "id":"848d1956cbac33cdb8eeb608094dc124",
+                        "location_type_name":"country, state, region,...",
+                        "lat":22.0,
+                        "location_type":"PCLI",
+                        "geoname_id":1269750
+                    },
+                    "title":"Telangana Today",
+                    "url":"telanganatoday.com"
+                },
+                "title":"Doubts raised over timing of Adani\u2019s Rs 100 cr donation to CM Revanth",
+                "body":"Doubts raised over timing of Adani\u2019s Rs 100 cr donation to CM Revanth Questions are being raised about the timing of Adani Group's Rs. ...",
+                "uri":"45aa3a1d59bb49799642b7db368634d1",
+                "url":"https:\/\/telanganatoday.com\/doubts-raised-over-timing-of-adanis-rs-100-cr-donation-to-cm-revanth"
+            },
+            {
+                "sentiment":{
+                    "score":0.77128726,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/www.uniindia.com\/cms\/gall_content\/2024\/10\/2024_10$largeimg23_Oct_2024_145425587.jfif",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-23T08:54:00Z",
+                "source":{
+                    "rank":242231,
+                    "location":{
+                        "lng":79.0,
+                        "country_geoname_id":1269750,
+                        "name":"India",
+                        "country_name":"India",
+                        "wikidata_id":"Q668",
+                        "continent_code":"AS",
+                        "id":"4870bb360bd4304fa10b32698d56f91a",
+                        "location_type_name":"country, state, region,...",
+                        "lat":22.0,
+                        "location_type":"PCLI",
+                        "geoname_id":1269750
+                    },
+                    "title":"United News of India",
+                    "url":"uniindia.com"
+                },
+                "title":"Telangana: Adani plans cement factory in Yadadri-Bhongir face stiff opposition from villagers",
+                "body":"Hyderabad, Oct 23 (UNI) Adani\u2019s proposed cement factory in Yadadri-Bhongir district, about 70 km from here faced stiff opposition from the ...",
+                "uri":"8b019a42e41e4ce69a97adf1dd25107a",
+                "url":"http:\/\/www.uniindia.com\/telangana-adani-plans-cement-factory-in-yadadri-bhongir-face-stiff-opposition-from-villagers\/south\/news\/3310088.html"
+            },
+            {
+                "sentiment":{
+                    "score":0.7833874,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/media.telanganatoday.com\/wp-content\/uploads\/2024\/10\/Adani-1.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-23T14:26:45Z",
+                "source":{
+                    "rank":22946,
+                    "location":{
+                        "lng":79.0,
+                        "country_geoname_id":1269750,
+                        "name":"India",
+                        "country_name":"India",
+                        "wikidata_id":"Q668",
+                        "continent_code":"AS",
+                        "id":"848d1956cbac33cdb8eeb608094dc124",
+                        "location_type_name":"country, state, region,...",
+                        "lat":22.0,
+                        "location_type":"PCLI",
+                        "geoname_id":1269750
+                    },
+                    "title":"Telangana Today",
+                    "url":"telanganatoday.com"
+                },
+                "title":"Tensions rise in Ramannapet over proposed Adani Ambuja cement factory",
+                "body":"The residents warned that they would not tolerate any actions that threaten their livelihood and environment. They made it clear that they ...",
+                "uri":"be3e778b76ba471480b20aaccd73342d",
+                "url":"https:\/\/telanganatoday.com\/tensions-rise-in-ramannapet-over-proposed-adani-ambuja-cement-factory"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+
+        ],
+        "lc_risk_factors":[
+            41,
+            94
+        ],
+        "legal_and_regulatory_actions":[
+
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.082089385,
+        "updated_time":"2024-10-23T14:39:25Z"
+    },
+    {
+        "ingestion_time":"2024-10-20T13:18:35Z",
+        "id":"e4b5eb5a99373c8797964b4965fe4c81",
+        "title":"Class Action Lawsuit Against Taro Pharmaceutical Industries Ltd. for Alleged Securities Law Violations and Misleading Information in Proxy",
+        "summary":"A class action lawsuit has been filed against Taro Pharmaceutical Industries Ltd. and certain of its officers, alleging violations of federal securities laws in connection with the company's January 25, 2024 initial public offering. The complaint alleges that the company's board caused the company to enter into an agreement and plan of merger with Sun Pharmaceutical Industries Ltd., and that the definitive proxy statement filed with the SEC was materially incomplete and misleading.",
+        "discovery_time":"2024-10-20T12:54:39Z",
+        "affected_companies":[
+            {
+                "company_id":"375808611",
+                "name":"BofA Securities, Inc."
+            },
+            {
+                "company_id":"35111",
+                "name":"Taro Pharmaceutical Industries Ltd."
+            }
+        ],
+        "highlights":[
+            "\"Bronstein, Gewirtz & Grossman, LLC filed a class action lawsuit against Taro Pharmaceutical Industries Ltd. and its officers\"",
+            "\"Lawsuit seeks damages for stockholders who acquired Taro securities prior to January 2025 IPO\"",
+            "\"Taro's Board approved a merger with Sun Pharmaceutical Industries in 2024, shareholders received $43.00 per ordinary share\"",
+            "\"Proxy contains allegedly incomplete and misleading information about BofA Securities' valuation analyses methodology and assumptions\"",
+            "\"Stockholders who lost due to Taro can request the Court's appointment as lead plaintiff\""
+        ],
+        "tags":[
+            "Taro Pharmaceutical Industries Ltd",
+            "class action lawsuit",
+            "securities laws",
+            "Bronstein Gewirtz & Grossman LLC",
+            "Sun Pharmaceutical Industries",
+            "merger",
+            "Proxy",
+            "BofA Securities Inc",
+            "valuation analyses",
+            "lead plaintiff"
+        ],
+        "ai_severity_impact_scale":{
+            "score":50,
+            "description":[
+                "Reputational Impact is Medium",
+                "Financial Impact is Medium",
+                "Incident Scale is Medium",
+                "Incident Impact Duration is Medium",
+                "Company Responsibility is High",
+                "Legal Consequences is Medium",
+                "Health And Safety is Low"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/www.accesswire.com\/imagelibrary\/87eb4d15-c5ff-4ba6-b020-75bda445a08f\/916299\/image.png",
+        "news_articles":[
+            {
+                "sentiment":{
+                    "score":0.46850488,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/www.accesswire.com\/imagelibrary\/87eb4d15-c5ff-4ba6-b020-75bda445a08f\/916299\/image.png",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-20T12:54:39Z",
+                "source":{
+                    "rank":282981,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"press release service & global newswire | accesswire",
+                    "url":"accesswire.com"
+                },
+                "title":"TARO INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Taro Pharmaceutical Industries Ltd. Stockholders with Substantial Losses Have Opportunity to Lead Class Action Lawsuit!",
+                "body":"NEW YORK CITY, NY \/ ACCESSWIRE \/ October 20, 2024 \/ Bronstein, Gewirtz & Grossman, LLC a nationally recognized law firm, notifies ...",
+                "uri":"6a70e474cf6d41858319b881f313912b",
+                "url":"https:\/\/www.accesswire.com\/916299\/taro-investor-alert-bronstein-gewirtz-and-grossman-llc-announces-that-taro-pharmaceutical-industries-ltd-stockholders-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit"
+            },
+            {
+                "sentiment":{
+                    "score":0.4689357,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/www.accesswire.com\/imagelibrary\/87eb4d15-c5ff-4ba6-b020-75bda445a08f\/916300\/image.png",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T11:37:10Z",
+                "source":{
+                    "rank":282981,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"press release service & global newswire | accesswire",
+                    "url":"accesswire.com"
+                },
+                "title":"TARO SHAREHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Taro Pharmaceutical Industries Ltd. Shareholders with Substantial Losses Have Opportunity to Lead Class Action Lawsuit!",
+                "body":"NEW YORK CITY, NY \/ ACCESSWIRE \/ October 21, 2024 \/ Bronstein, Gewirtz & Grossman, LLC a nationally recognized law firm, notifies ...",
+                "uri":"b55c002a135d47348ebb87fb88292df5",
+                "url":"https:\/\/www.accesswire.com\/916300\/taro-shareholder-alert-bronstein-gewirtz-and-grossman-llc-announces-that-taro-pharmaceutical-industries-ltd-shareholders-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit"
+            },
+            {
+                "sentiment":{
+                    "score":0.5186952,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/a0da9a10-1592-437a-9c10-d30eeb243cb7",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-23T20:00:00Z",
+                "source":{
+                    "rank":39771,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"fbabd68fee8d315fa52ec2fdf2b41f00",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"GlobeNewswire",
+                    "url":"globenewswire.com"
+                },
+                "title":"TARO INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Taro Pharmaceutical Industries Ltd. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit!",
+                "body":"NEW YORK, Oct. 23, 2024 (GLOBE NEWSWIRE) -- Attorney Advertising -- Bronstein, Gewirtz & Grossman, LLC a nationally recognized law firm, ...",
+                "uri":"af4449e4da9545a4b259be71b356591c",
+                "url":"https:\/\/www.globenewswire.com\/news-release\/2024\/10\/23\/2968148\/9788\/en\/TARO-INVESTOR-ALERT-Bronstein-Gewirtz-Grossman-LLC-Announces-that-Taro-Pharmaceutical-Industries-Ltd-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit.html"
+            },
+            {
+                "sentiment":{
+                    "score":0.47184458,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/www.accesswire.com\/imagelibrary\/4430449c-bb16-4def-adef-b86fc45c9d76\/916303\/image.png",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-27T12:35:43Z",
+                "source":{
+                    "rank":282981,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"press release service & global newswire | accesswire",
+                    "url":"accesswire.com"
+                },
+                "title":"TARO INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Taro Pharmaceutical Industries Ltd. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit!",
+                "body":"NEW YORK, NY \/ ACCESSWIRE \/ October 27, 2024 \/ Bronstein, Gewirtz & Grossman, LLC a nationally recognized law firm, notifies investors ...",
+                "uri":"36282168b43d49dfbe6e12a642b6b044",
+                "url":"https:\/\/www.accesswire.com\/916303\/taro-investor-alert-bronstein-gewirtz-and-grossman-llc-announces-that-taro-pharmaceutical-industries-ltd-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit"
+            },
+            {
+                "sentiment":{
+                    "score":0.47203046,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/www.accesswire.com\/imagelibrary\/4430449c-bb16-4def-adef-b86fc45c9d76\/916304\/image.png",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-28T11:43:23Z",
+                "source":{
+                    "rank":282981,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"press release service & global newswire | accesswire",
+                    "url":"accesswire.com"
+                },
+                "title":"TARO SHAREHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Taro Pharmaceutical Industries Ltd. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit!",
+                "body":"NEW YORK, NY \/ ACCESSWIRE \/ October 28, 2024 \/ Bronstein, Gewirtz & Grossman, LLC a nationally recognized law firm, notifies investors ...",
+                "uri":"177974c9ba5a48079df12f2df0a0273e",
+                "url":"https:\/\/www.accesswire.com\/916304\/taro-shareholder-alert-bronstein-gewirtz-and-grossman-llc-announces-that-taro-pharmaceutical-industries-ltd-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+
+        ],
+        "lc_risk_factors":[
+            112,
+            188,
+            44
+        ],
+        "legal_and_regulatory_actions":[
+            {
+                "description":"Taro shareholders has filed a lawsuit against Taro Pharmaceutical Industries Ltd.",
+                "company":{
+                    "company_id":"35111",
+                    "name":"Taro Pharmaceutical Industries Ltd."
+                }
+            }
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.04092224,
+        "updated_time":"2024-10-28T11:59:11Z"
+    },
+    {
+        "ingestion_time":"2024-10-20T13:24:40Z",
+        "id":"cbef6d851c243c8eb6913cf489c1b6be",
+        "title":"Air Products Faces Investor Backlash Over Capital Allocation and Green Hydrogen Investments",
+        "summary":"A controversy has arisen over Air Products' ESG-driven capital allocation strategies, specifically its investments in green hydrogen projects. The company has come under fire from major investors, including D.E. Shaw & Co. and Mantle Ridge, LP, due to concerns about the lack of succession planning for CEO Seifi Ghasemi and the company's decisions to invest billions of dollars in green hydrogen projects without adequate offtake agreements.",
+        "discovery_time":"2024-10-20T13:01:04Z",
+        "affected_companies":[
+            {
+                "company_id":"248356",
+                "name":"Air Products and Chemicals, Inc."
+            }
+        ],
+        "highlights":[
+            "Investors, such as D.E. Shaw & Mantle Ridge, LP, have criticized industrial gas provider Air Products for its capital allocation strategies, specifically high-risk investments in green hydrogen projects.\n",
+            "Controversy surrounds the NOEM Project, a Saudi Arabian green hydrogen project, due to concerns over the company's lack of offtake agreements with potential customers.\n",
+            "The main issues include the absence of a clear succession plan for CEO Seifi Ghasemi and a significant backlog of clean energy projects, currently about 20% of Air Products' market cap."
+        ],
+        "tags":[
+            "Air Products",
+            "capital allocation",
+            "investors controversy",
+            "green hydrogen",
+            "NOEM Project",
+            "clean energy projects",
+            "secession planning"
+        ],
+        "ai_severity_impact_scale":{
+            "score":42,
+            "description":[
+                "Reputational Impact is Medium",
+                "Financial Impact is Medium",
+                "Incident Scale is Medium",
+                "Incident Impact Duration is Medium",
+                "Company Responsibility is High",
+                "Legal Consequences is Low",
+                "Health And Safety is Low"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6714f9750a666a90ca6e5733\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "news_articles":[
+            {
+                "uri":"ab7f23a3a44d4fb3b1cd6064450b510d",
+                "title":"ESG-Driven Green Hydrogen Risk At The Center Of Air Products Dispute",
+                "body":"A growing controversy over the ESG-driven capital allocation strategies of industrial gas provider Air Products illustrates the sorts of ...",
+                "url":"https:\/\/www.forbes.com\/sites\/davidblackmon\/2024\/10\/20\/esg-driven-green-hydrogen-risk-at-the-center-of-air-products-dispute\/",
+                "publication_datetime":"2024-10-20T13:01:04Z",
+                "source":{
+                    "url":"forbes.com",
+                    "title":"Forbes",
+                    "location":{
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "name":"United States of America",
+                        "wikidata_id":"Q30",
+                        "lat":39.76,
+                        "lng":-98.5,
+                        "location_type":"PCLI",
+                        "location_type_name":"country, state, region,...",
+                        "geoname_id":6252001,
+                        "country_name":"United States",
+                        "country_geoname_id":6252001,
+                        "continent_code":"NA"
+                    },
+                    "rank":449
+                },
+                "article_type":"NEWS",
+                "sentiment":{
+                    "score":0.78618336,
+                    "category":"NEGATIVE",
+                    "company":null
+                },
+                "image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6714f9750a666a90ca6e5733\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+
+        ],
+        "lc_risk_factors":[
+            192
+        ],
+        "legal_and_regulatory_actions":[
+
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.082509966,
+        "updated_time":null
+    },
+    {
+        "ingestion_time":"2024-10-20T13:37:57Z",
+        "id":"da199cc190f233f59df6a1eeb79a4bab",
+        "title":"Cisco DevHub Portal Down After Unauthorized Data Publication",
+        "summary":"Cisco took its public DevHub portal offline after a threat actor leaked non-public data. The data in question was on a public-facing DevHub environment, a Cisco resource center that enables the company to support its community by making available software code, scripts, etc. for customers to use as needed. A small number of files that were not authorized for public download may have been published.",
+        "discovery_time":"2024-10-20T13:06:18Z",
+        "affected_companies":[
+            {
+                "company_id":"19691",
+                "name":"Cisco Systems, Inc."
+            }
+        ],
+        "highlights":[
+            "\"Cisco has taken its public DevHub portal offline after a threat actor leaked 'non-public' data\"",
+            "The data was published on a public-facing DevHub environment, a Cisco resource center",
+            "Cisco has confirmed that a small number of files not authorized for public download were published"
+        ],
+        "tags":[
+            "Cisco",
+            "DevHub",
+            "data leak",
+            "non-public",
+            "unauthorized files"
+        ],
+        "ai_severity_impact_scale":{
+            "score":14,
+            "description":[
+                "Reputational Impact is Medium",
+                "Financial Impact is Low",
+                "Incident Scale is Low",
+                "Incident Impact Duration is Low",
+                "Company Responsibility is Medium",
+                "Legal Consequences is Low",
+                "Health And Safety is Low"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/www.securityweek.com\/wp-content\/uploads\/2023\/03\/Cisco-cybersecurity-business-1024x576.jpg",
+        "news_articles":[
+            {
+                "sentiment":{
+                    "score":0.52967227,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-20T13:06:18Z",
+                "source":{
+                    "rank":605690,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"databreaches.net \u2014 \u201cthe office of inadequate security\u201d",
+                    "url":"databreaches.net"
+                },
+                "title":"Cisco takes DevHub portal offline after hacker publishes stolen data \u2013 DataBreaches.Net",
+                "body":"Cisco confirmed today that it took its public DevHub portal offline after a threat actor leaked \u201cnon-public\u201d data, but it continues to ...",
+                "uri":"3b3dcd37c9b040e488f17835a9fa7817",
+                "url":"https:\/\/databreaches.net\/?p=118104"
+            },
+            {
+                "sentiment":{
+                    "score":0.6553499,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/www.securityweek.com\/wp-content\/uploads\/2023\/03\/Cisco-cybersecurity-business-1024x576.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T12:09:19Z",
+                "source":{
+                    "rank":182375,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"SecurityWeek",
+                    "url":"securityweek.com"
+                },
+                "title":"Cisco Confirms Security Incident After Hacker Offers to Sell Data",
+                "body":"Cisco on Friday confirmed that some of its files have been stolen after a hacker offered to sell information allegedly belonging to the ...",
+                "uri":"ad8d381c47c0427ca9ae22c2bf6396e0",
+                "url":"https:\/\/www.securityweek.com\/cisco-confirms-security-incident-after-hacker-offers-to-sell-data\/"
+            },
+            {
+                "sentiment":{
+                    "score":0.6406584,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/files.cyberriskalliance.com\/wp-content\/uploads\/2023\/10\/1006_cisco.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T13:28:00Z",
+                "source":null,
+                "title":"Cisco DevHub portal taken down amid data leak",
+                "body":"Cisco has disclosed the takedown of its public-facing DevHub portal, which was determined to contain the non-public information exposed by ...",
+                "uri":"c529ae394652438ab37f80996e76ace1",
+                "url":"https:\/\/www.scworld.com\/brief\/cisco-devhub-portal-taken-down-amid-data-leak"
+            },
+            {
+                "sentiment":{
+                    "score":0.69088566,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/www.techtarget.com\/ITKE\/images\/logos\/TTlogo-379x201.png",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T13:56:00Z",
+                "source":{
+                    "rank":9962,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"TechTarget",
+                    "url":"techtarget.com"
+                },
+                "title":"Cisco confirms attackers stole data from DevHub environment",
+                "body":"Cisco confirmed an attacker recently stole data from a public-facing DevHub environment that contained software code and scripts and ...",
+                "uri":"7af8110ab245493cafd7d22cedca635a",
+                "url":"https:\/\/www.techtarget.com\/searchsecurity\/news\/366613746\/Cisco-confirms-attackers-stole-data-from-DevHub-environment"
+            },
+            {
+                "sentiment":{
+                    "score":0.62712556,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/files.cyberriskalliance.com\/wp-content\/uploads\/2024\/10\/102124_cisco.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T18:36:00Z",
+                "source":null,
+                "title":"Cisco confirms breach of public-facing DevHub site",
+                "body":"Cisco confirmed Oct. 18 that it experienced a breach on its public-facing DevHub environment, but that no internal systems were ...",
+                "uri":"b6ee6031db144ceead9493ff0f6e17a1",
+                "url":"https:\/\/www.scworld.com\/news\/cisco-confirms-breach-of-public-facing-devhub-site"
+            },
+            {
+                "sentiment":{
+                    "score":0.6635427,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/eu-images.contentstack.com\/v3\/assets\/blt6d90778a997de1cd\/blt16ff2f43ef6de9ee\/6716b82118fc13204db283a4\/cisco_Sergiy_Palamarchuk_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T21:02:52Z",
+                "source":{
+                    "rank":80939,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"DARKReading",
+                    "url":"darkreading.com"
+                },
+                "title":"Cisco Disables DevHub Access After Security Breach",
+                "body":"Cisco has disabled public access to one of its DevHub environments after threat actors downloaded some customer data from the site and put ...",
+                "uri":"f9de3adc394d4920b47204ddd3eee97c",
+                "url":"https:\/\/www.darkreading.com\/cloud-security\/cisco-disables-access-devhub-site-security-breach"
+            },
+            {
+                "sentiment":{
+                    "score":0.6561959,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/n-cryptech.com\/wp-content\/uploads\/2024\/10\/cisco_Sergiy_Palamarchuk_shutterstock.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T21:02:00Z",
+                "source":{
+                    "rank":5896595,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"n-cryptech tech news - n-cryptech",
+                    "url":"n-cryptech.com"
+                },
+                "title":"Cisco Disables DevHub Access After Security Breach",
+                "body":"Cisco has disabled public access to one of its DevHub environments after threat actors downloaded some customer data from the site and put ...",
+                "uri":"c1d64703529444bdb141b2778cf583e2",
+                "url":"https:\/\/n-cryptech.com\/cisco-disables-devhub-access-after-security-breach\/"
+            },
+            {
+                "sentiment":{
+                    "score":0.4393029,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/miro.medium.com\/v2\/resize:fit:1200\/1*8Oum7mlkDQyhqqrD9E8F9w.jpeg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-21T22:04:06.219000Z",
+                "source":{
+                    "rank":384,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"Medium",
+                    "url":"medium.com"
+                },
+                "title":"\ud83d\udea8 Cisco Takes DevHub Portal Offline Following Hacker Leak of Sensitive Data \ud83d\udd10",
+                "body":"In a recent development, Cisco has taken down its DevHub portal after a hacker, known by the alias IntelBroker, leaked non-public data. ...",
+                "uri":"db2e79b226d448d9b6148093894acb20",
+                "url":"https:\/\/medium.com\/@wiretor\/cisco-takes-devhub-portal-offline-following-hacker-leak-of-sensitive-data-b6ca5cffe3c3"
+            },
+            {
+                "sentiment":{
+                    "score":0.6641179,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/topclassactions.com\/wp-content\/uploads\/2024\/10\/shutterstock_2319916719-1.jpg.webp",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-22T13:45:00Z",
+                "source":{
+                    "rank":15820,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"Top Class Actions",
+                    "url":"topclassactions.com"
+                },
+                "title":"Cisco confirms investigation into data breach claims",
+                "body":"\u2022 Who: Cisco confirmed it is investigating a potential data breach after well-known threat actor IntelBroker began selling data it ...",
+                "uri":"3cc3480f29564b2dbdb9a44971426017",
+                "url":"https:\/\/topclassactions.com\/lawsuit-settlements\/privacy\/data-breach\/cisco-confirms-investigation-into-data-breach-claims\/"
+            },
+            {
+                "sentiment":{
+                    "score":0.6074024,
+                    "company":null,
+                    "category":"NEUTRAL"
+                },
+                "image":"https:\/\/cionews.co.in\/wp-content\/uploads\/2024\/04\/Article-Main-Image-4-9.png",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-23T09:39:30Z",
+                "source":{
+                    "rank":1174054,
+                    "location":{
+                        "lng":79.0,
+                        "country_geoname_id":1269750,
+                        "name":"India",
+                        "country_name":"India",
+                        "wikidata_id":"Q668",
+                        "continent_code":"AS",
+                        "id":"4870bb360bd4304fa10b32698d56f91a",
+                        "location_type_name":"country, state, region,...",
+                        "lat":22.0,
+                        "location_type":"PCLI",
+                        "geoname_id":1269750
+                    },
+                    "title":"get latest cio news from around the globe",
+                    "url":"cionews.co.in"
+                },
+                "title":"Cisco closes the DevHub development environment after a data compromise",
+                "body":"The operator stopped access to the public-facing environment while it looked into the breach, but it was certain that none of its systems ...",
+                "uri":"6e2320463bdc43d8b10674bb7c1e5bf3",
+                "url":"https:\/\/cionews.co.in\/cisco-closes-the-devhub-development-environment\/"
+            },
+            {
+                "sentiment":{
+                    "score":0.68443286,
+                    "company":null,
+                    "category":"NEGATIVE"
+                },
+                "image":"https:\/\/www.cpomagazine.com\/wp-content\/uploads\/2024\/10\/cisco-data-breach-leaks-sensitive-infrastructure-information-impacting-high-profile-organizations_1500.jpg",
+                "article_type":"NEWS",
+                "publication_datetime":"2024-10-23T16:00:00Z",
+                "source":{
+                    "rank":614306,
+                    "location":{
+                        "lng":-98.5,
+                        "country_geoname_id":6252001,
+                        "name":"United States of America",
+                        "country_name":"United States",
+                        "wikidata_id":"Q30",
+                        "continent_code":"NA",
+                        "id":"8fe7c8acdce93e75871598c3020b0994",
+                        "location_type_name":"country, state, region,...",
+                        "lat":39.76,
+                        "location_type":"PCLI",
+                        "geoname_id":6252001
+                    },
+                    "title":"CPO Magazine",
+                    "url":"cpomagazine.com"
+                },
+                "title":"Cisco Data Breach Leaks Sensitive Infrastructure Information Impacting High-Profile Organizations",
+                "body":"Networking behemoth Cisco is investigating data breach claims after prolific threat actor IntelBroker listed the company\u2019s sensitive ...",
+                "uri":"85632b5a78ab42ec948f6d36e791d9a7",
+                "url":"https:\/\/www.cpomagazine.com\/cyber-security\/cisco-data-breach-leaks-sensitive-infrastructure-information-impacting-high-profile-organizations\/"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+
+        ],
+        "lc_risk_factors":[
+            61,
+            170,
+            133
+        ],
+        "legal_and_regulatory_actions":[
+
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.086250175,
+        "updated_time":"2024-10-23T16:16:15Z"
+    },
+    {
+        "ingestion_time":"2024-10-20T13:41:00Z",
+        "id":"a82184fdc4f238ad848813ad63a9f3ce",
+        "title":"Major Restaurant Chains Subway, O'Leary's, and Pincho's Faulted for Hygiene and Food Storage Issues in Aftonbladet Review",
+        "summary":"A review of hundreds of environmental and health protection reports revealed numerous incidents of poor hygiene, expired food, and inadequate storage at four of Sweden's largest restaurant and fast food chains: Subway, Br\u00f6derna's, O'Leary's, and Pincho's.",
+        "discovery_time":"2024-10-20T13:25:45Z",
+        "affected_companies":[
+            {
+                "company_id":"246718",
+                "name":"Doctor's Associates Inc."
+            }
+        ],
+        "highlights":[
+            "\"Aftonbladet\" reviewed environmental and health protection reports for four large restaurant and fast food chains, Subway, Br\u00f6derna\u2019s, O\u2019Leary's and Pincho's, finding hygiene, best-before dates, and storage issues.",
+            "The restaurants singled out for carelessness were Subway, O'Leary's, and Pinco's.",
+            "Hygiene, best-before dates, and storage issues were identified in the reviewed reports."
+        ],
+        "tags":[
+            "Aftonbladet",
+            "restaurant",
+            "fast food chains",
+            "hygiene",
+            "best-before dates",
+            "storage issues",
+            "Subway",
+            "O'Leary's",
+            "Pincho's"
+        ],
+        "ai_severity_impact_scale":{
+            "score":50,
+            "description":[
+                "Reputational Impact is Medium",
+                "Financial Impact is Medium",
+                "Incident Scale is Medium",
+                "Incident Impact Duration is Medium",
+                "Company Responsibility is High",
+                "Legal Consequences is Low",
+                "Health And Safety is Medium"
+            ]
+        },
+        "severity_keywords":[
+
+        ],
+        "severity_risk":null,
+        "severity_score":null,
+        "feedback":{
+            "summary_additional_fb":null,
+            "summary":null,
+            "affected_companies":null,
+            "locations":null,
+            "discovery_time":null,
+            "company_responses":null,
+            "regulatry_legal_actions":null,
+            "penalties_and_fines":null,
+            "risk_mitigation_strategies":null,
+            "financial_figures":null,
+            "environment_metrics":null,
+            "scale_of_the_incident":null,
+            "nature_of_the_incident":null,
+            "contextual_information":null,
+            "stakeholder_perspectives":null,
+            "esg_factors":null,
+            "esg_PAI":null,
+            "esg_SDG":null,
+            "tags":null
+        },
+        "image_url":"https:\/\/earthpressnews.com\/wp-content\/uploads\/2024\/10\/132-popular-eating-places-that-received-criticism-Mice-larvae-and.jpeg",
+        "news_articles":[
+            {
+                "uri":"d3fe8a7ae6fc49e99c74559f685df9d4",
+                "title":"132 popular eating places that received criticism: Mice, larvae and mold",
+                "body":"Rats, caterpillars and mold. And carelessness with hygiene, best-before dates and how food is stored. Aftonbladet has reviewed hundreds of ...",
+                "url":"https:\/\/earthpressnews.com\/132-popular-eating-places-that-received-criticism-mice-larvae-and-mold\/",
+                "publication_datetime":"2024-10-20T13:25:45Z",
+                "source":{
+                    "url":"earthpressnews.com",
+                    "title":"earth press news - economy, healthy life, beauty, family and actual articles",
+                    "location":{
+                        "id":"fbabd68fee8d315fa52ec2fdf2b41f00",
+                        "name":"United States of America",
+                        "wikidata_id":"Q30",
+                        "lat":39.76,
+                        "lng":-98.5,
+                        "location_type":"PCLI",
+                        "location_type_name":"country, state, region,...",
+                        "geoname_id":6252001,
+                        "country_name":"United States",
+                        "country_geoname_id":6252001,
+                        "continent_code":"NA"
+                    },
+                    "rank":16485107
+                },
+                "article_type":"NEWS",
+                "sentiment":{
+                    "score":0.55961055,
+                    "category":"NEGATIVE",
+                    "company":null
+                },
+                "image":"https:\/\/earthpressnews.com\/wp-content\/uploads\/2024\/10\/132-popular-eating-places-that-received-criticism-Mice-larvae-and.jpeg"
+            }
+        ],
+        "ngo_reports":[
+
+        ],
+        "social_media_coverage_summary":null,
+        "tweets":[
+
+        ],
+        "reddit_posts":[
+
+        ],
+        "tweets_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "reddit_analysis":{
+            "replies_summary":null,
+            "topic_modeling":[
+
+            ],
+            "active_contributors":[
+
+            ],
+            "summary":null,
+            "last_updated":null
+        },
+        "locations":[
+            {
+                "id":"821c9bb3335a3636aab42448e21c7e43",
+                "name":"Sweden",
+                "wikidata_id":"Q34",
+                "lat":62.0,
+                "lng":15.0,
+                "location_type":"PCLI",
+                "location_type_name":"country, state, region,...",
+                "geoname_id":2661886,
+                "country_name":"Sweden",
+                "country_geoname_id":2661886,
+                "continent_code":"EU"
+            }
+        ],
+        "lc_risk_factors":[
+            58,
+            22,
+            8
+        ],
+        "legal_and_regulatory_actions":[
+
+        ],
+        "penalties_and_fines":[
+
+        ],
+        "elapsed_seconds":0.0849818,
+        "updated_time":null
+    }
+]
