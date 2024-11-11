@@ -20,21 +20,9 @@ from graphrag.vector_stores.lancedb import LanceDBVectorStore
 from callback import StreamlitLLMCallback
 from search import CustomSearch
 
-INPUT_DIR = "./indexing/output/demo/artifacts"
-st.title("GraphRAG Chatbot POC")
-
-# Sidebar configuration
-search_mode = st.sidebar.selectbox("Choose search mode", options=['local', 'global'],
-                                   help="Method to use to answer the query, one of local or global.")
-
-response_type = st.sidebar.selectbox("Choose response type",
-                                     options=['Single Paragraph', 'Multiple Paragraphs', 'Single Sentence',
-                                              'List of 3-7 Points', 'Single Page', 'Multi-Page Report'],
-                                     help="Free-form text describing the desired response type and format")
-community_level = st.sidebar.number_input("Community level", value=2,
-                                          help="Community level in the Leiden community hierarchy from which we will load the community reports. Higher value means we use reports on smaller communities.")
-
 # Constants and configurations
+INPUT_DIR = "./indexing/output/demo/artifacts"
+BASE_DOCUMENTS_PATH = f"{INPUT_DIR}/create_base_documents.parquet"
 LANCEDB_URI = "lancedb"
 COMMUNITY_REPORT_TABLE = "create_final_community_reports"
 ENTITY_TABLE = "create_final_nodes"
@@ -43,7 +31,19 @@ RELATIONSHIP_TABLE = "create_final_relationships"
 COVARIATE_TABLE = "create_final_covariates"
 TEXT_UNIT_TABLE = "create_final_text_units"
 
-# Load data
+
+# Load base documents data
+@st.cache_data(show_spinner=False)
+def load_base_documents():
+    try:
+        df = pd.read_parquet(BASE_DOCUMENTS_PATH)
+        return df
+    except Exception as e:
+        st.error(f"Error loading base documents: {str(e)}")
+        return None
+
+
+# Load data function
 @st.cache_data(show_spinner=False)
 def load_data(input_dir, community_level):
     entity_df = pd.read_parquet(f"{input_dir}/{ENTITY_TABLE}.parquet")
@@ -59,42 +59,21 @@ def load_data(input_dir, community_level):
 
     return entities, reports, relationships, text_units
 
+
 # Set up vector store
 @st.cache_resource(show_spinner=False)
 def setup_vector_store(input_dir, community_level):
     entities, _, _, _ = load_data(input_dir, community_level)
     description_embedding_store = LanceDBVectorStore(collection_name="entity_description_embeddings")
     description_embedding_store.connect(db_uri=LANCEDB_URI)
-    entity_description_embeddings = store_entity_semantic_embeddings(entities=entities,
-                                                                     vectorstore=description_embedding_store)
+    entity_description_embeddings = store_entity_semantic_embeddings(
+        entities=entities,
+        vectorstore=description_embedding_store
+    )
     return description_embedding_store, entity_description_embeddings
 
-# Load data and setup vector store
-with st.spinner("Loading data and setting up vector store..."):
-    entities, reports, relationships, text_units = load_data(INPUT_DIR, community_level)
-    description_embedding_store, entity_description_embeddings = setup_vector_store(INPUT_DIR, community_level)
 
-# Set up LLM and embeddings
-api_key = os.environ.get("OPENAI_API_KEY")
-llm = ChatOpenAI(
-    api_key=api_key,
-    model="gpt-4o-mini",
-    api_type=OpenaiApiType.OpenAI,
-    max_retries=20,
-)
-
-token_encoder = tiktoken.get_encoding("cl100k_base")
-
-text_embedder = OpenAIEmbedding(
-    api_key=api_key,
-    api_base=None,
-    api_type=OpenaiApiType.OpenAI,
-    model="text-embedding-3-small",
-    deployment_name="text-embedding-3-small",
-    max_retries=20,
-)
-
-def setup_global_search():
+def setup_global_search(llm, token_encoder, reports, entities, response_type):
     context_builder = GlobalCommunityContext(
         community_reports=reports,
         entities=entities,
@@ -139,7 +118,9 @@ def setup_global_search():
         response_type=response_type
     )
 
-def setup_local_search():
+
+def setup_local_search(llm, token_encoder, reports, text_units, entities, relationships,
+                       description_embedding_store, text_embedder):
     context_builder = LocalSearchMixedContext(
         community_reports=reports,
         text_units=text_units,
@@ -182,50 +163,182 @@ def setup_local_search():
         callbacks=[streamlit_callback]
     )
 
-# Initialize chat messages
-if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "How can I help you?"}]
 
-# Display chat history
-for msg in st.session_state.messages:
-    st.chat_message(msg["role"]).write(msg["content"])
+# Main application
+def main():
+    st.title("GraphRAG Chatbot POC")
 
-# Handle user input
-user_query = st.chat_input(placeholder="Ask me anything")
+    # Sidebar navigation
+    page = st.sidebar.radio(
+        "Navigation",
+        ["Chat Interface", "Data Overview"],
+        help="Select page to display"
+    )
 
-if user_query:
-    start_time = time.time()
-    st.session_state.messages.append({"role": "user", "content": user_query})
-    st.chat_message("user").write(user_query)
+    if page == "Chat Interface":
+        # Chat interface sidebar options
+        search_mode = st.sidebar.selectbox(
+            "Choose search mode",
+            options=['local', 'global'],
+            help="Method to use to answer the query, one of local or global."
+        )
 
-    with st.chat_message("assistant"):
-        if search_mode == 'global':
-            search_engine = setup_global_search()
-        else:
-            search_engine = setup_local_search()
+        response_type = st.sidebar.selectbox(
+            "Choose response type",
+            options=['Single Paragraph', 'Multiple Paragraphs', 'Single Sentence',
+                     'List of 3-7 Points', 'Single Page', 'Multi-Page Report'],
+            help="Free-form text describing the desired response type and format"
+        )
 
-        async def perform_search():
-            result = await search_engine.asearch(user_query)
-            return result
+        community_level = st.sidebar.number_input(
+            "Community level",
+            value=2,
+            help="Community level in the Leiden community hierarchy from which we will load the community reports. Higher value means we use reports on smaller communities."
+        )
 
-        with st.spinner("Searching for an answer..."):
-            result = asyncio.run(perform_search())
+        # Set up LLM and embeddings
+        api_key = os.environ.get("OPENAI_API_KEY")
+        llm = ChatOpenAI(
+            api_key=api_key,
+            model="gpt-4o-mini",
+            api_type=OpenaiApiType.OpenAI,
+            max_retries=20,
+        )
 
-        response = result.response
-        st.session_state.messages.append({"role": "assistant", "content": response})
-        if search_mode == "global":
-            st.write(response)
-            if 'reports' in result.context_data.keys():
-                with st.expander("View Source Data"):
-                    st.write(result.context_data["reports"])
+        token_encoder = tiktoken.get_encoding("cl100k_base")
 
-        # Display context data (optional)
-        if 'sources' in result.context_data.keys():
-            with st.expander("View Source Data"):
-                st.write(result.context_data['sources'])
+        text_embedder = OpenAIEmbedding(
+            api_key=api_key,
+            api_base=None,
+            api_type=OpenaiApiType.OpenAI,
+            model="text-embedding-3-small",
+            deployment_name="text-embedding-3-small",
+            max_retries=20,
+        )
 
-        # Display LLM calls and tokens (optional)
-        latency = "N/A"
-        if hasattr(result, 'latency'):
-            latency = round(result.latency, 2)
-        st.write(f"LLM calls: {result.llm_calls}. LLM tokens: {result.prompt_tokens}, latency: {latency}s")
+        # Load data and setup vector store
+        with st.spinner("Loading data and setting up vector store..."):
+            entities, reports, relationships, text_units = load_data(INPUT_DIR, community_level)
+            description_embedding_store, entity_description_embeddings = setup_vector_store(
+                INPUT_DIR,
+                community_level
+            )
+
+        # Initialize chat messages
+        if "messages" not in st.session_state:
+            st.session_state["messages"] = [{"role": "assistant", "content": "How can I help you?"}]
+
+        # Display chat history
+        for msg in st.session_state.messages:
+            st.chat_message(msg["role"]).write(msg["content"])
+
+        # Handle user input
+        user_query = st.chat_input(placeholder="Ask me anything")
+
+        if user_query:
+            start_time = time.time()
+            st.session_state.messages.append({"role": "user", "content": user_query})
+            st.chat_message("user").write(user_query)
+
+            with st.chat_message("assistant"):
+                if search_mode == 'global':
+                    search_engine = setup_global_search(
+                        llm, token_encoder, reports, entities, response_type
+                    )
+                else:
+                    search_engine = setup_local_search(
+                        llm, token_encoder, reports, text_units, entities, relationships,
+                        description_embedding_store, text_embedder
+                    )
+
+                async def perform_search():
+                    result = await search_engine.asearch(user_query)
+                    return result
+
+                with st.spinner("Searching for an answer..."):
+                    result = asyncio.run(perform_search())
+
+                response = result.response
+                st.session_state.messages.append({"role": "assistant", "content": response})
+                if search_mode == "global":
+                    st.write(response)
+                    if 'reports' in result.context_data.keys():
+                        with st.expander("View Source Data"):
+                            st.write(result.context_data["reports"])
+
+                # Display context data
+                if 'sources' in result.context_data.keys():
+                    with st.expander("View Source Data"):
+                        st.write(result.context_data['sources'])
+
+                # Display LLM calls and tokens
+                latency = "N/A"
+                if hasattr(result, 'latency'):
+                    latency = round(result.latency, 2)
+                st.write(f"LLM calls: {result.llm_calls}. LLM tokens: {result.prompt_tokens}, latency: {latency}s")
+
+    elif page == "Data Overview":
+        st.header("Base Documents Overview")
+
+        # Load and display base documents data
+        with st.spinner("Loading base documents..."):
+            df = load_base_documents()
+
+        if df is not None:
+            # Data summary
+            st.subheader("Dataset Summary")
+            col1, col2, col3 = st.columns(3)
+            with col1:
+                st.metric("Total Documents", len(df))
+            with col2:
+                st.metric("Total Columns", len(df.columns))
+            with col3:
+                missing_data = df.isnull().sum().sum()
+                st.metric("Missing Values", missing_data)
+
+            # Column information
+            st.subheader("Column Information")
+            col_info = pd.DataFrame({
+                'Data Type': df.dtypes,
+                'Non-Null Count': df.count(),
+                'Null Count': df.isnull().sum(),
+                'Null Percentage': (df.isnull().sum() / len(df) * 100).round(2)
+            })
+            st.dataframe(col_info)
+
+            # Data preview
+            st.subheader("Data Preview")
+
+            # Add column selector
+            selected_columns = st.multiselect(
+                "Select columns to display",
+                options=df.columns.tolist(),
+                default=df.columns.tolist()[:5]  # Default to first 5 columns
+            )
+
+            # Add search/filter functionality
+            search_term = st.text_input("Search in text columns", "")
+
+            # Filter data based on search term
+            if search_term:
+                mask = df[selected_columns].astype(str).apply(
+                    lambda x: x.str.contains(search_term, case=False, na=False)
+                ).any(axis=1)
+                filtered_df = df[mask]
+            else:
+                filtered_df = df
+
+            # Display data with pagination
+            page_size = st.number_input("Rows per page", min_value=5, max_value=100, value=10)
+            page_number = st.number_input("Page", min_value=1, max_value=(len(filtered_df) // page_size) + 1, value=1)
+
+            start_idx = (page_number - 1) * page_size
+            end_idx = start_idx + page_size
+
+            st.dataframe(
+                filtered_df[selected_columns].iloc[start_idx:end_idx],
+                use_container_width=True
+            )
+
+if __name__ == "__main__":
+    main()
